@@ -8,7 +8,6 @@ dependencies = []
 
 [dependency-groups]
 docs = [
-    "furo>=2025.9.25",
-    "sphinx>=8.2.3",
-    "sphinx-design>=0.6.1",
+    "sphinx-rtd-theme>=3.1.0rc1",
+    "sphinx>=9.0.4",
 ]

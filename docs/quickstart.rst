@@ -44,31 +44,6 @@ objects.
  Squirtle     44       48         65          43        50         250       50.0
 =========== ====== ========== =========== ========= =========== ========= ===========
 
-Pokémon details
-~~~~~~~~~~~~~~~
-
-For these three Pokémon, you can check out their pokédex entries below.
-
-.. tab-set::
-
-   .. tab-item:: Bulbasaur
-
-         * Seed Pokémon
-         * Type: :bdg-success:`grass` :bdg-dark:`poison`
-         * Abilities: Overgrow, Chlorophyll
-
-   .. tab-item:: Charmander
-
-         * Lizard Pokémon
-         * Type: :bdg-warning:`fire`
-         * Abilities: Blaze, Solar power
-
-   .. tab-item:: Squirtle
-
-         * Tiny turtle Pokémon
-         * Type: :bdg-primary:`water`
-         * Abilities: Torrent, Rain dish
-
 Usage
 -----
 
